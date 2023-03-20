@@ -5,7 +5,7 @@
 package goexec
 
 import (
-	"github.com/janpfeifer/gonb/goexec/goplsclient"
+	"github.com/cjwomack/gonb/goexec/goplsclient"
 	"github.com/pkg/errors"
 	"log"
 	"os"
