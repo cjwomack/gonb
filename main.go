@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"github.com/gofrs/uuid"
 	"github.com/cjwomack/gonb/dispatcher"
-	"github.com/cjwomack/gcnb/goexec"
+	"github.com/cjwomack/gonb/goexec"
 	"github.com/cjwomack/gonb/kernel"
 	"io"
 	"log"
