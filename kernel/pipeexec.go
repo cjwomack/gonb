@@ -1,7 +1,7 @@
 package kernel
 
 import (
-	"github.com/janpfeifer/gonb/gonbui/protocol"
+	"github.com/cjwomack/gonb/gonbui/protocol"
 	"io"
 	"log"
 	"os"
