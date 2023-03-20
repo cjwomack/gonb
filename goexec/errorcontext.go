@@ -3,7 +3,7 @@ package goexec
 import (
 	"bytes"
 	"fmt"
-	"github.com/janpfeifer/gonb/kernel"
+	"github.com/cjwomack/gonb/kernel"
 	"github.com/pkg/errors"
 	"golang.org/x/exp/constraints"
 	"html"
