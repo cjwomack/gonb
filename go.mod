@@ -1,6 +1,6 @@
 module github.com/janpfeifer/gonb
 
-go 1.20
+go 1.18
 
 require (
 	github.com/go-language-server/jsonrpc2 v0.4.2
