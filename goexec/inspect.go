@@ -2,8 +2,8 @@ package goexec
 
 import (
 	"context"
-	"github.com/janpfeifer/gonb/gonbui/protocol"
-	"github.com/janpfeifer/gonb/kernel"
+	"github.com/cjwomack/gonb/gonbui/protocol"
+	"github.com/cjwomack/gonb/kernel"
 	"github.com/pkg/errors"
 	"log"
 	"strings"
