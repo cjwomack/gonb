@@ -1,7 +1,7 @@
 package goexec
 
 import (
-	"github.com/janpfeifer/gonb/kernel"
+	"github.com/cjwomack/gonb/kernel"
 	"github.com/pkg/errors"
 	"os/exec"
 	"path"
