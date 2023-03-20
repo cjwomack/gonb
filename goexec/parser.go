@@ -2,7 +2,7 @@ package goexec
 
 import (
 	"fmt"
-	"github.com/janpfeifer/gonb/kernel"
+	"github.com/cjwomack/gonb/kernel"
 	"github.com/pkg/errors"
 	"go/ast"
 	"go/parser"
