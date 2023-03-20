@@ -6,7 +6,7 @@ import (
 	"encoding/gob"
 	"fmt"
 	"github.com/gofrs/uuid"
-	"github.com/janpfeifer/gonb/gonbui/protocol"
+	"github.com/cjwomack/gonb/gonbui/protocol"
 	"github.com/pkg/errors"
 	"image"
 	"image/png"
