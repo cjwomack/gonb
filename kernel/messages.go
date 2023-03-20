@@ -2,7 +2,7 @@ package kernel
 
 import (
 	"fmt"
-	"github.com/janpfeifer/gonb/gonbui/protocol"
+	"github.com/cjwomack/gonb/gonbui/protocol"
 	"github.com/pkg/errors"
 	"io"
 	"log"
