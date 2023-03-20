@@ -1,4 +1,4 @@
-module github.com/janpfeifer/gonb
+module github.com/cjwomack/gonb
 
 go 1.18
 
