@@ -4,10 +4,10 @@ package dispatcher
 
 import (
 	"fmt"
-	"github.com/janpfeifer/gonb/goexec"
-	"github.com/janpfeifer/gonb/gonbui/protocol"
-	"github.com/janpfeifer/gonb/kernel"
-	"github.com/janpfeifer/gonb/specialcmd"
+	"github.com/cjwomack/gonb/goexec"
+	"github.com/cjwomack/gonb/gonbui/protocol"
+	"github.com/cjwomack/gonb/kernel"
+	"github.com/cjwomack/gonb/specialcmd"
 	"github.com/pkg/errors"
 	"io"
 	"log"
