@@ -8,8 +8,8 @@ package specialcmd
 
 import (
 	"fmt"
-	"github.com/janpfeifer/gonb/goexec"
-	"github.com/janpfeifer/gonb/kernel"
+	"github.com/cjwomack/gonb/goexec"
+	"github.com/cjwomack/gonb/kernel"
 	"github.com/pkg/errors"
 	"log"
 	"os"
